@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> sample encryption example to show encryption in different using different methods and techniques
+> Sample encryption example to show encryption in different using different methods and techniques
 
 ### 🏠 Configuring dependencies
 
@@ -27,7 +27,11 @@ Create a folder using the command on your terminal
 mkdir encryption-techniques
 ```
 
-`cd` inside the folder
+Change to directory command to get inside your folder
+
+```sh 
+cd encryption-techniques
+```
 
 ## STEP TWO
 
@@ -56,7 +60,7 @@ Once done your package.json should look like
 
 ```sh
 {
-  "name": "demo",
+  "name": "encryption-techniques",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT"

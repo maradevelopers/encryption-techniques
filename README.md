@@ -35,7 +35,7 @@ yarn run test
 
 👤 **Jordan type**
 
-* Twitter: [@jordan\_type](https://twitter.com/jordan\_type)
+* Twitter: [@type_jordan](https://twitter.com/type_jordan)
 * Github: [@Jordan-type](https://github.com/Jordan-type)
 
 ## 🤝 Contributing

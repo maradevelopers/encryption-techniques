@@ -20,8 +20,11 @@
 ### 🏠 Configuring dependencies
 
 ## STEP ONE
+
+Create a folder using the command on your terminal
+
 ```sh
-create a folder named 'encryption-techniques'
+mkdir encryption-techniques
 ```
 
 `cd` inside the folder
@@ -38,8 +41,27 @@ or
 ```sh
 yarn init
 ```
+## STEP THREE
 
+Install the following libraries 
 
+```sh
+npm install simple-cipher-js crypto-js bip39
+```
+
+```sh
+yarn add simple-cipher-js crypto-js bip39
+```
+Once done your package.json should look like
+
+```sh
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
+```
 
 
 ## Author

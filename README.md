@@ -17,19 +17,30 @@
 
 > sample encryption example to show encryption in different using different methods and techniques
 
-### 🏠 [Homepage](https://github.com/Jordan-type/encryption-techniques#readme)
+### 🏠 Configuring dependencies
 
-## Install
-
+## STEP ONE
 ```sh
-yarn install
+create a folder named 'encryption-techniques'
 ```
 
-## Run tests
+`cd` inside the folder
+
+## STEP TWO
+
+Open your terminal use the command to intialize NodeJs App 
 
 ```sh
-yarn run test
+npm init
 ```
+or 
+
+```sh
+yarn init
+```
+
+
+
 
 ## Author
 
